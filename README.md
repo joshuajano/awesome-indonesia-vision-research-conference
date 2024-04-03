@@ -16,7 +16,9 @@ Please feel free to [pull requests](https://github.com/indonesia-vision-ai/aweso
 - IEEE Winter Conference on Applications of Computer Vision (WACV)
 
 ## Papers
-
+### CVPR 2024
+* Mikhail Kennerley, Wang Jian-Gang, Bharadwaj Veeravalli, **Robby T. Tan**,  *CAT: Exploiting Inter-Class Dynamics for Domain Adaptive Object Detection* [[Paper](https://arxiv.org/abs/2403.19278)]
+* 
 ### ICCV 2023
 * **Naufal Suryanto**, Yongsu Kim, *Harashta Tatimma Larasati*, Hyoeun Kang, Thi-Thu-Huong Le, Yoonyoung Hong, Hunmin Yang, Se-Yoon Oh, Howon Kim, *ACTIVE: Towards Highly Transferable 3D Physical Camouflage for Universal and Robust Vehicle Evasion* [[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Suryanto_ACTIVE_Towards_Highly_Transferable_3D_Physical_Camouflage_for_Universal_and_ICCV_2023_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content/ICCV2023/supplemental/Suryanto_ACTIVE_Towards_Highly_ICCV_2023_supplemental.pdf)]
 * **Muhammad Adi Nugroho**, Sangmin Woo, Sumin Lee, Changick Kim, *Audio-Visual Glance Network for Efficient Video Recognition* [[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Nugroho_Audio-Visual_Glance_Network_for_Efficient_Video_Recognition_ICCV_2023_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content/ICCV2023/supplemental/Nugroho_Audio-Visual_Glance_Network_ICCV_2023_supplemental.zip)]
